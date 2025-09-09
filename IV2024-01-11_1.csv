@@ -1,0 +1,15 @@
+#Procedure: <__main__.IVProcedure>
+#Parameters:
+#	Bias Current (A): 0.0004 A
+#	Maximum current sent to coil (A): 4 A
+#	Step (A): 0.1 A
+#	Waiting Time (s): 0.2 s
+#	Compliance Current: 1.05 uA
+#	Delay Time: 100 ms
+#	Interval between E-field and AHE: 8 s
+#	Maximum Voltage: 2000 mV
+#	Minimum Voltage: 1000 mV
+#	Dwelling Time: 540 s
+#	Voltage Step: 20 mV
+#Data:
+Voltage (V),Current (A),Resistance (ohm),FieldCurrent (A),Hall Voltage (V)
